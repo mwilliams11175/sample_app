@@ -1,0 +1,143 @@
+Michaels-MacBook-Pro:sample_app Michael$ bundle exec rspec spec/requests/static_pages_spec.rb
+Your Gemfile lists the gem rspec-rails (>= 0) more than once.
+You should probably keep only one of them.
+While it's not a problem now, it could cause errors if you change the version of just one of them later.
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old asset_host
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old asset_host=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old app_host
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old app_host=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old run_server
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old run_server=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old default_host
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old default_host=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old always_include_port
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:22: warning: method redefined; discarding old always_include_port=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old server_port
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old server_port=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old exact
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old exact=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old match
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old match=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old exact_options
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old exact_options=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old visible_text_only
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:23: warning: method redefined; discarding old visible_text_only=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old default_selector
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old default_selector=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old default_wait_time
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old default_wait_time=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old ignore_hidden_elements
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:24: warning: method redefined; discarding old ignore_hidden_elements=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old save_and_open_page_path
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old save_and_open_page_path=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old automatic_reload
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old automatic_reload=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old raise_server_errors
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:25: warning: method redefined; discarding old raise_server_errors=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:26: warning: method redefined; discarding old default_driver=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:26: warning: method redefined; discarding old current_driver=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:26: warning: method redefined; discarding old javascript_driver=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:26: warning: method redefined; discarding old session_name=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:26: warning: method redefined; discarding old server_host=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:27: warning: method redefined; discarding old app
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:27: warning: method redefined; discarding old app=
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:57: warning: method redefined; discarding old configure
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:57: warning: previous definition of configure was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:74: warning: method redefined; discarding old register_driver
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:74: warning: previous definition of register_driver was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:106: warning: method redefined; discarding old add_selector
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:106: warning: previous definition of add_selector was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:110: warning: method redefined; discarding old drivers
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:110: warning: previous definition of drivers was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:127: warning: method redefined; discarding old server
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:127: warning: previous definition of server was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:158: warning: method redefined; discarding old string
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:158: warning: previous definition of string was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:171: warning: method redefined; discarding old run_default_server
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:171: warning: previous definition of run_default_server was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:180: warning: method redefined; discarding old default_driver
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:180: warning: previous definition of default_driver was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:197: warning: method redefined; discarding old javascript_driver
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:197: warning: previous definition of javascript_driver was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:205: warning: method redefined; discarding old use_default_driver
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:205: warning: previous definition of use_default_driver was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:213: warning: method redefined; discarding old using_driver
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:213: warning: previous definition of using_driver was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:225: warning: method redefined; discarding old server_host
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:225: warning: previous definition of server_host was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:233: warning: method redefined; discarding old using_wait_time
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:233: warning: previous definition of using_wait_time was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:247: warning: method redefined; discarding old current_session
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:247: warning: previous definition of current_session was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:267: warning: method redefined; discarding old session_name
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:267: warning: previous definition of session_name was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:275: warning: method redefined; discarding old using_session
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:275: warning: previous definition of using_session was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:289: warning: method redefined; discarding old HTML
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:289: warning: previous definition of HTML was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:297: warning: method redefined; discarding old included
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:297: warning: previous definition of included was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:302: warning: method redefined; discarding old deprecate
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:302: warning: previous definition of deprecate was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:308: warning: method redefined; discarding old session_pool
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:308: warning: previous definition of session_pool was here
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:322: warning: loading in progress, circular require considered harmful - /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara/dsl.rb
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/ruby_executable_hooks:15:in `<main>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/rspec:23:in `<main>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/rspec:23:in `load'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/exe/rspec:4:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:38:in `invoke'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:70:in `run'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:85:in `run'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:96:in `setup'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:22:in `configure'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:100:in `process_options_into'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:100:in `each'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:101:in `block in process_options_into'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `requires='
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `each'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `block in requires='
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `require'
+	from /Users/Michael/rails_projects/sample_app/spec/spec_helper.rb:17:in `<top (required)>'
+	from /Users/Michael/rails_projects/sample_app/spec/spec_helper.rb:17:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:5:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:322:in `<module:Capybara>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/Capybara.rb:322:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara/dsl.rb:1:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara/dsl.rb:1:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:5:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:322:in `<module:Capybara>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara.rb:322:in `require'
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara/selenium/driver.rb:132: warning: assigned but unused variable - a
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/capybara-2.4.1/lib/capybara/selenium/driver.rb:261: warning: assigned but unused variable - modal
+/Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/template.rb:8:in `<class:Template>': uninitialized constant ActiveSupport::Autoload (NameError)
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/template.rb:7:in `<module:ActionView>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/template.rb:5:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/template/resolver.rb:4:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/template/resolver.rb:4:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/testing/resolvers.rb:1:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/actionview-4.1.4/lib/action_view/testing/resolvers.rb:1:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-rails-3.0.2/lib/rspec/rails/view_rendering.rb:1:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-rails-3.0.2/lib/rspec/rails/view_rendering.rb:1:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-rails-3.0.2/lib/rspec/rails.rb:4:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-rails-3.0.2/lib/rspec/rails.rb:4:in `<top (required)>'
+	from /Users/Michael/rails_projects/sample_app/spec/spec_helper.rb:18:in `require'
+	from /Users/Michael/rails_projects/sample_app/spec/spec_helper.rb:18:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `require'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `block in requires='
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `each'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration.rb:1025:in `requires='
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:101:in `block in process_options_into'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:100:in `each'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:100:in `process_options_into'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/configuration_options.rb:22:in `configure'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:96:in `setup'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:85:in `run'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:70:in `run'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/lib/rspec/core/runner.rb:38:in `invoke'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/gems/rspec-core-3.0.4/exe/rspec:4:in `<top (required)>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/rspec:23:in `load'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/rspec:23:in `<main>'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/Michael/.rvm/gems/ruby-2.0.0-p247/bin/ruby_executable_hooks:15:in `<main>'
